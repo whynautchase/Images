@@ -5,12 +5,6 @@ This is a selection of random graphical elements from my journals in no particul
 ![Computer Diagram](./IMG_20210409_145408__01.jpg)
 A diagram of a computer from when I was doing some idiosyncratic theorizing about computer science
 
-![Political Polarization](./IMG_20210409_145639__01.jpg)
-A rough illustration of "political polarization" within "policy space"
-
-![Waves](./IMG_20210409_150058__01.jpg)
-Just some waves. Particularly, "fractal waves" as inspired by the Weierstrass function.
-
 ![Fibonacci](./IMG_20210409_150118__01.jpg)
 A neat representation of the fibonacci sequence, also showing its relation to the golden ratio. Similar representation for the tribonacci and tetranacci versions.
 
